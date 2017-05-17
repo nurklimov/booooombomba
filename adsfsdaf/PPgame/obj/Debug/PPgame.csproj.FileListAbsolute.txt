@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\C#\PPgame\PPgame\bin\Debug\PPgame.exe.config
+C:\Users\user\Desktop\C#\PPgame\PPgame\bin\Debug\PPgame.exe
+C:\Users\user\Desktop\C#\PPgame\PPgame\bin\Debug\PPgame.pdb
+C:\Users\user\Desktop\C#\PPgame\PPgame\obj\Debug\PPgame.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\C#\PPgame\PPgame\obj\Debug\PPgame.Form1.resources
+C:\Users\user\Desktop\C#\PPgame\PPgame\obj\Debug\PPgame.Properties.Resources.resources
+C:\Users\user\Desktop\C#\PPgame\PPgame\obj\Debug\PPgame.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\C#\PPgame\PPgame\obj\Debug\PPgame.exe
+C:\Users\user\Desktop\C#\PPgame\PPgame\obj\Debug\PPgame.pdb
